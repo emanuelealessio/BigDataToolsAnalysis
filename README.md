@@ -84,8 +84,5 @@ Risultati
 I tempi di esecuzione misurati per ogni combinazione di motore, formato di archiviazione e dimensione del dataset sono raccolti in Grafici.xlsx, insieme allo spazio occupato dai singoli formati.
 
 Contesto
-
 Progetto realizzato nell'ambito del corso di Big Data, Università degli Studi Roma Tre (2022).
-Contesto
 
-Progetto realizzato nell'ambito del corso di Big Data, Università degli Studi Roma Tre (2022).
