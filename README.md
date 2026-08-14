@@ -12,7 +12,9 @@ Isolare l'impatto delle due variabili sulle prestazioni. Da un lato il motore, a
 
 Dataset
 
-Amazon Fine Food Reviews — circa 568.000 recensioni di prodotti alimentari, con identificativo prodotto e utente, punteggio, timestamp, testo della recensione e voti di utilità.
+Amazon Fine Food Reviews — circa 500.000 recensioni di prodotti alimentari, con identificativo prodotto e utente, punteggio, timestamp, testo della recensione e voti di utilità.
+
+Link al dataset scaricabile -> https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
 
 Per i test di scalabilità il dataset è stato replicato con variazione dei campi numerici, così da ottenere volumi progressivamente maggiori mantenendo la stessa struttura.
 
